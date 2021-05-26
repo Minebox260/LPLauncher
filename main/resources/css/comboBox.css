@@ -1,0 +1,22 @@
+.combo-box-base {
+    -fx-background-color: #007dbe;
+}
+.combo-box-base:hover {
+    -fx-background-color: white;
+}
+.combo-box .list-cell {
+    -fx-text-fill: white;
+}
+.combo-box:hover .list-cell {
+    -fx-text-fill: #007dbe;
+}
+.combo-box .arrow {
+    -fx-background-color:white;
+}
+.combo-box:hover .arrow {
+    -fx-background-color:#007dbe;
+}
+
+.combo-box .list-view .cell:selected {
+    -fx-text-fill: white;
+}

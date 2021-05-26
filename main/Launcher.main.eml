@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../../Launcher/src/main"/>
+	<lib name="AriLibFX-1.0.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/AriLibFX-1.0.5.jar!/"/>
+	</lib>
+	<lib name="fontawesomefx-8.9.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/fontawesomefx-8.9.jar!/"/>
+	</lib>
+	<lib name="gson-2.8.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/gson-2.8.0.jar!/"/>
+	</lib>
+	<lib name="openauth-1.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/openauth-1.0.4.jar!/"/>
+	</lib>
+	<lib name="openlauncherlib-3.0.3-BETA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/openlauncherlib-3.0.3-BETA.jar!/"/>
+	</lib>
+	<lib name="swinger-1.0.0-BETA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../Launcher/libs/swinger-1.0.0-BETA.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Gradle: net.wytrem:wylog:1.0.0" value="project"/>
+	</levels>
+</component>
